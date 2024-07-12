@@ -44,7 +44,7 @@
         "tab_bar.background": "#181818",
         "tab.inactive_background": "#181818",
         "tab.active_background": "#1F1F1F",
-        "search.match_background": null,
+        "search.match_background": "#623315",
         "panel.background": "#181818",
         "panel.focused_border": null,
         "pane.focused_border": null,
@@ -58,8 +58,8 @@
         "editor.background": "#1F1F1F",
         "editor.gutter.background": "#1F1F1F",
         "editor.subheader.background": null,
-        "editor.active_line.background": "#5AC1FE3D",
-        "editor.highlighted_line.background": "#5AC1FE3D",
+        "editor.active_line.background": "#212121",
+        "editor.highlighted_line.background": "#212E3A",
         "editor.line_number": "#6E7681",
         "editor.active_line_number": "#CCCCCC",
         "editor.invisible": null,
@@ -252,27 +252,27 @@
             "font_weight": null
           },
           "punctuation": {
-            "color": "#808080",
+            "color": "#CCCCCC",
             "font_style": null,
             "font_weight": null
           },
           "punctuation.bracket": {
-            "color": "#808080",
+            "color": "#CCCCCC",
             "font_style": null,
             "font_weight": null
           },
           "punctuation.delimiter": {
-            "color": "#808080",
+            "color": "#CCCCCC",
             "font_style": null,
             "font_weight": null
           },
           "punctuation.list_marker": {
-            "color": "#808080",
+            "color": "#CCCCCC",
             "font_style": null,
             "font_weight": null
           },
           "punctuation.special": {
-            "color": "#808080",
+            "color": "#CCCCCC",
             "font_style": null,
             "font_weight": null
           },
