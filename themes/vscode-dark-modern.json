@@ -9,10 +9,15 @@
       "style": {
         "background.appearance": "opaque",
         "accents": [
-          "#6F6F2A",
-          "#416F41",
-          "#6F416F",
-          "#1E4F4F"
+          "#FFD700",
+          "#DA70D6",
+          "#179FFF",
+          "#FFD700",
+          "#DA70D6",
+          "#179FFF",
+          "#FFD700",
+          "#DA70D6",
+          "#179FFF"
         ],
         "border": "#2B2B2B",
         "border.variant": "#454545",
@@ -238,7 +243,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#569CD6",
+            "color": "#4FC1FF",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -268,6 +273,12 @@
             "font_weight": null
           },
           "keyword": {
+            "color": "#569CD6",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.control": {
             "color": "#C586C0",
             "background_color": null,
             "font_style": null,
@@ -322,7 +333,7 @@
             "font_weight": null
           },
           "punctuation.special": {
-            "color": "#CCCCCC",
+            "color": "#569CD6",
             "background_color": null,
             "font_style": null,
             "font_weight": null
