@@ -57,7 +57,7 @@
         "tab_bar.background": "#181818",
         "tab.inactive_background": "#181818",
         "tab.active_background": "#1F1F1F",
-        "search.match_background": "#9E6A03",
+        "search.match_background": "#C6510666",
         "panel.background": "#181818",
         "panel.focused_border": "#0078D4",
         "panel.indent_guide": "#58585866",
@@ -90,9 +90,9 @@
         "editor.active_wrap_guide": "#2B2B2B",
         "editor.indent_guide": "#404040",
         "editor.indent_guide_active": "#707070",
-        "editor.document_highlight.read_background": "#575757B8",
+        "editor.document_highlight.read_background": "#ADD6FF26",
         "editor.document_highlight.write_background": "#004972B8",
-        "editor.document_highlight.bracket_background": "#0064001A",
+        "editor.document_highlight.bracket_background": "#ADD6FF26",
         "terminal.background": "#181818",
         "terminal.foreground": "#CCCCCC",
         "terminal.ansi.background": null,
@@ -179,7 +179,7 @@
           {
             "cursor": "#AEAFAD",
             "background": null,
-            "selection": "#3CA6FF2D"
+            "selection": "#264F78"
           },
           {
             "cursor": "#39BAE5FF",
