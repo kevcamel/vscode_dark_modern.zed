@@ -1,6 +1,6 @@
 id = "vscode-dark-modern"
 name = "VSCode Dark Modern"
-version = "0.1.0"
+version = "0.1.1"
 schema_version = 1
 authors = ["kcamcam <kevincamellini@gmail.com>"]
 description = "VSCode Dark Modern Theme for Zed"
