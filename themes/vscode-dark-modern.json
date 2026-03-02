@@ -278,7 +278,19 @@
             "font_style": null,
             "font_weight": null
           },
+          "keyword.declaration": {
+            "color": "#569CD6",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "keyword.control": {
+            "color": "#C586C0",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "keyword.import": {
             "color": "#C586C0",
             "background_color": null,
             "font_style": null,
