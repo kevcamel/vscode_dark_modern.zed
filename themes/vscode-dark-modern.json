@@ -386,6 +386,12 @@
             "font_style": null,
             "font_weight": null
           },
+          "tag.component.jsx": {
+            "color": "#4EC9B0",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "text.literal": {
             "color": "#CE9178",
             "background_color": null,
