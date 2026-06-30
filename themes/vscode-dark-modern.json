@@ -40,7 +40,7 @@
         "ghost_element.selected": "#04395E",
         "ghost_element.disabled": null,
         "text": "#CCCCCC",
-        "text.muted": "#9D9D9D",
+        "text.muted": "#CCCCCC",
         "text.placeholder": "#FFFFFF56",
         "text.disabled": "#CCCCCC80",
         "text.accent": null,
@@ -345,7 +345,7 @@
             "font_weight": null
           },
           "punctuation.special": {
-            "color": "#569CD6",
+            "color": "#CCCCCC",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -382,6 +382,12 @@
           },
           "tag": {
             "color": "#569CD6",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "tag.component.jsx": {
+            "color": "#4EC9B0",
             "background_color": null,
             "font_style": null,
             "font_weight": null
