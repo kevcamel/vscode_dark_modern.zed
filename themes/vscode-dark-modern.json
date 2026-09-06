@@ -272,6 +272,12 @@
             "font_style": null,
             "font_weight": null
           },
+          "function.macro": {
+            "color": "#569CD6",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "keyword": {
             "color": "#569CD6",
             "background_color": null,
